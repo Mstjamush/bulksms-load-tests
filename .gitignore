@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Real, working credentials for provisioned load-test accounts.
+data/user_pool.json
+data/billed_client.json
+
+# Locust's own run artifacts.
+*.log
+report.html
+
+# CSV stats written by --csv
+results/

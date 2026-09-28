@@ -1,0 +1,4 @@
+locust>=2.31,<3
+faker>=30,<31
+python-dotenv>=1.0,<2
+requests>=2.32,<3
